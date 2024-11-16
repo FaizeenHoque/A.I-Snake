@@ -9,7 +9,7 @@ This is an AI-powered Snake game where the snake plays intelligently to maximize
    cd A.I-Snake
    ```
 2. Run the A.I
-   ```python
+   ```bash
    python agent.py
    ```
 3. Enjoy watching the AI dominate the game!
